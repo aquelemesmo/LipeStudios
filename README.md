@@ -1,4 +1,4 @@
-# Utilizações do bot
+# Ferramentas do bot
 
 NODE.JS v17.1.0, DISCORD.JS v13.3.0, QUICK.DB v7.1.3.
 
