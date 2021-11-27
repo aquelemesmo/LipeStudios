@@ -1,0 +1,11 @@
+{
+    "ajudaCommand": {
+        "home": "HomeButton",
+        "id": "UtilsButton",
+        "id2" : "ModButton",
+        "id3" : "EcoButton",
+        "id4" : "ConfigButton",
+        "id5" : "GameButton",
+        "id6" : "MinecraftButton"
+    }
+}
