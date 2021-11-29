@@ -2,6 +2,10 @@
 
 NODE.JS v17.1.0, DISCORD.JS v13.3.0, QUICK.DB v7.1.3.
 
+# LICENSE
+
+Antes, de abrir e ler as funcionalidades do bot. E importante que você terá que respeitar a licença MIT License. Qualquer tipo de kibe ou decompiler, será denúnciado gravemente. 
+
 # Agradecimentos especiais e pelo apoio
 
 <div style="display: inline_block"><br>
