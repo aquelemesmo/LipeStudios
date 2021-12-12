@@ -1,9 +1,0 @@
-{
-    "sem_permissao" : "Você não tem permissão para usar esse comando",
-    "sem_permissao_bot" : "Eu não tenho permissão para eu poder fazer essa ação",
-    "sem_motivo" : "Coloque um motivo para que seja executado o comando",
-    "mencionar_membro" : "Você esqueceu de mencionar um membro",
-    "colocar_motivo" : "Coloque um motivo para ser executado essa ação",
-    "digite_coins" : "Coloque alguma quantidade para adicionar coins ao usuário",
-    "digite_coins2" : "Coloque alguma quantidade para remover coins ao usuário"
-}
