@@ -1,0 +1,10 @@
+{
+  "semPermissão" : "Você não tem permissão para usar esse comando!",
+  "semPermissãoGuild" : "Eu não tenho essa permissão para executar essa ação",
+  "semMotivo" : "Coloque um motivo",
+  "mencionarMembro" : "Mencione um membro",
+  "colocarNick" : "Coloque um nick do minecraft!",
+  "colocarIp": "Coloque um ip do servidor!",
+  "repMotivo" : "Coloque um motivo para o usuário ser reputado",
+  "inserirValor" : "Insira um valor"
+}
