@@ -1,0 +1,4 @@
+- Adicionado novo comando `avatar, temperatura, servericon`
+- Atualizado quando alguem dar o `userinfo` e mencionar o usuario, mostra o avatar do usuario
+- Agora no `botinfo` mostra a versão do bot
+- Corrigido quando que alguém executa o `roubar` vai roubar si mesmo, agora pode mencionar outro usuário pra roubar

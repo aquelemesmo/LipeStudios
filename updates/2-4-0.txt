@@ -1,0 +1,6 @@
+- Adicionado novos comandos `lp!noticias` e  `lp!converter`
+- Adicionado sistema de reações no `lp!serverinfo` e `lp!avatar`
+- Corrigido bugs e agora o bot pode se manter ligado por um período
+- Criando nova src. LipePython e LipePremium (o LipePremium não irá ficar disponibilizado à público por devidos direitos da LipeStudios)
+
+Feliz páscoa!

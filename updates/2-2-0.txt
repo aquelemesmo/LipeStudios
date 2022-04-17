@@ -1,0 +1,4 @@
+- Sistema de economia irá ficar em manutenção.
+- Reformulado o ajuda
+- Adicionado nova src LipeSupport
+- Adicionado novos eventos
