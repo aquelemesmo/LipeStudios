@@ -1,0 +1,15 @@
+{
+  "semPermissão" : "Você não tem permissão para usar esse comando!",
+  "semPermissãoGuild" : "Eu não tenho essa permissão para executar essa ação",
+  "semMotivo" : "Coloque um motivo",
+  "mencionarMembro" : "Mencione um membro",
+  "banirSiMesmo": "Você não pode banir você mesmo",
+  "banirBot": "Você não pode banir o bot",
+  "colocarNick" : "Coloque um nick do minecraft!",
+  "colocarIp": "Coloque um ip do servidor!",
+  "repMotivo" : "Coloque um motivo para o usuário ser reputado",
+  "inserirValor" : "Insira um valor",
+  "valorInvalido": "Esse valor é inválido!",
+  "inserirValorLang": "Insira um valor da linguagem definida",
+  "undefinedValor": "Esse valor não está definido"
+}
