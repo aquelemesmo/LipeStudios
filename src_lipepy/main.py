@@ -10,4 +10,4 @@ class MeuCliente(discord.Client):
         await ctx.send('PONG!')
     
 bot = MeuCliente()
-bot.run('ODg4MTY5MjY3NTI5NDA0NDc1.YUOyFg.vmljtU8RnWh6pzMoE7Oo7xh1my4')
+bot.run('')
