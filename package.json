@@ -1,8 +1,8 @@
 {
-  "name": "lipebotv2",
-  "version": "2.0.5",
+  "name": "lipestudios",
+  "version": "2.1.0",
   "description": "",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,23 +12,23 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
-    "better-sqlite3": "^7.4.6",
     "canvacord": "^5.2.3",
     "colors": "^1.4.0",
-    "dicionario.js": "^1.1.1-b",
-    "discloud-status": "^0.1.6",
-    "discord-gamecord": "^2.0.0",
+    "currency-formatter": "^1.5.9",
     "discord-together": "^1.1.62",
     "discord.js": "^13.1.0",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.6",
     "os": "^0.1.2",
     "parse-ms": "^2.1.0",
-    "quick.db": "^7.1.3",
     "request": "^2.88.2",
     "search-npm-registry": "^2.0.3",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
+    "simpl.db": "^2.4.0",
     "systeminformation": "^5.9.17",
-    "ytdownload": "^2.0.0"
+    "vulkava": "^1.1.3",
+    "weather-js": "^2.0.0",
+    "ytdownload": "^2.0.0",
+    "quick.db": "^7.1.3"
   }
 }
