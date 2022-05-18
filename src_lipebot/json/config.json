@@ -1,0 +1,28 @@
+{
+    "token": "ODg4MTY5MjY3NTI5NDA0NDc1.YUOyFg.7BIEKMTpZBMaqF04JdkLe3-ShqE",
+    "prefix" : "lpst!",
+    "client_secret" : "YwEpWrHzZALTjJIZKNUb49iNyo95fX5E",
+    "client_id" : "867169426733400104",
+
+    "canais": {
+        "canal_bug" : "884679164249124864",
+        "canal_sugerir_bot" : "884679204136972308"    
+    },
+
+    "mensagem": {
+        "semPermissão" : "Você não tem permissão para usar esse comando!",
+        "semPermissãoGuild" : "Eu não tenho essa permissão para executar essa ação",
+        "semMotivo" : "Coloque um motivo",
+        "mencionarMembro" : "Mencione um membro",
+        "banirSiMesmo": "Você não pode banir você mesmo",
+        "banirBot": "Você não pode banir o bot",
+        "colocarNick" : "Coloque um nick do minecraft!",
+        "colocarIp": "Coloque um ip do servidor!",
+        "repMotivo" : "Coloque um motivo para o usuário ser reputado",
+        "inserirValor" : "Insira um valor",
+        "valorInvalido": "Esse valor é inválido!",
+        "inserirValorLang": "Insira um valor da linguagem definida",
+        "undefinedValor": "Esse valor não está definido",
+        "mencionarCanalDeTexto": "Mencione um canal de texto"
+    }
+}
