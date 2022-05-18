@@ -13,7 +13,7 @@ module.exports = async (bot, interaction) => {
                         deny: ["VIEW_CHANNEL"]
                     },
                     {
-                        id: interaction.message.author.id,
+                        id: interaction.message.user.id,
                         allow: ["VIEW_CHANNEL"]
                     },
                     {

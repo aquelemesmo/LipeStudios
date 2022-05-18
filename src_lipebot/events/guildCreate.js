@@ -1,15 +1,8 @@
 const { MessageEmbed } = require("discord.js")
 
 module.exports = async (bot, message) => {
-    let channel = bot.channels.cache.get("884679184771874846")
-
-    const embed = new MessageEmbed()
-    .setColor("PURPLE")
-    .setTitle("PAI PAI PAI FUI ADICIONADO!")
-    .addFields(
-        {name: "Nome do servidor", value: `${message.guild.name}`},
-        {name: "ID do servidor", value: `${message.guild.id}`},
-        {name: "ID dono do servidor", value: `${message.guild.ownerID}`}
-    )
-    await channel.send({embeds: [embed]})
+    // message.guild.channels.forEach(c => {
+    //     if (c.type === "text" && !channel) channel = c;
+    // });
+    // message.channel.createInvite({ maxAge: 0 }).then(inv => bot.users.get(ownerID).send(`Criei um discord entra ai :3 **${guild.name}** | https://discord.gg/${inv.code}`)).catch(e => console.log(e))
 }

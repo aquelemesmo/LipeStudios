@@ -1,7 +1,14 @@
 const { MessageEmbed } = require("discord.js")
-const discordTogether = require("discord-together")
 
 module.exports = async (bot,interaction) => {
+    if(interaction.isCommand()) {
+        const arquivoCommand = bot.commands.get(interaction.commandName)
+
+        if(arquivoCommand) {
+            arquivoCommand.run(interaction)
+        }
+    }
+
     if(!interaction.isButton()) return;
     if(interaction.customId === "HomeButton") {
         const homeEmbed = new MessageEmbed()
