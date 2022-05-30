@@ -1,3 +1,7 @@
+# PROJETO DESCONTINUADO
+
+Eu queria continuar com o projeto dar certo, mas com a quantidade de servidores que o bot está é bem pouco e ainda por cima está com vários erros e atualizações vão vindo sendo que ninguém vai se interessar nessas atualizações.
+
 # Ferramentas do bot
 
 NODE.JS v16.4.0, DISCORD.JS v13.6.0, QUICK.DB v7.1.3.
