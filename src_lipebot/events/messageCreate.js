@@ -7,6 +7,7 @@ module.exports = async (bot, message) => {
     }
 
     if(message.author.bot || message.type.channel === "dm") return;
+    if(message.content.indexOf() !== 0) return;
 
     let args = message.content.slice(config.prefix.length).trim().split(/ +/g)
     let command = args.shift().toLowerCase();
